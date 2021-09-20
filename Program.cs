@@ -2,12 +2,12 @@
 
 string contacts = "";
 int numberOfPeopleInList = 0;
-
+Console.WriteLine("hej Eva-LI");
 while (true)
 {
-        Console.Clear();
-        
-    Console.Clear();    
+    Console.Clear();
+
+    Console.Clear();
     Console.Clear();
     Console.Clear();
     Console.ForegroundColor = ConsoleColor.DarkCyan;
